@@ -11,7 +11,7 @@ Real Estate
 
 The real estate industry is highly competitive and customer-driven, with a heavy reliance on timely and accurate communication with prospective buyers. Challenges include managing a large volume of property inquiries, inefficient manual tracking of property visits, and difficulties in prioritizing leads based on their purchase intent. Digital transformation is key to enhancing customer experience, improving agent productivity, and driving faster deal closures.
 
-📝** Requirement Gathering:**
+📝 **Requirement Gathering:**
 
 Automate lead capture from web forms and social media.
 
@@ -29,11 +29,11 @@ Manage deal closures: track offers, negotiations, closure status, and document u
 
 Provide dashboards to track monthly sales performance, lead funnel, and agent activity.
 
-👥** Stakeholder Analysis:**
+👥 **Stakeholder Analysis:**
 
 **Sales Agents:** Need to manage leads, property visits, and track follow-ups efficiently.
 
-**Property Managers: **Maintain property inventory and update availability in real time.
+**Property Managers:** Maintain property inventory and update availability in real time.
 
 **Prospective Buyers:** Want seamless inquiry submission and scheduling of property visits.
 
