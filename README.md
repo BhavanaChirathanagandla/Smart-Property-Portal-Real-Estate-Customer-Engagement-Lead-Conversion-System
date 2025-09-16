@@ -1,7 +1,6 @@
 ✅ Phase 1: Problem Understanding & Industry Analysis
 🧱 Project Title:
-
-Smart Property Portal – Real Estate Customer Engagement & Lead Conversion System
+**Smart Property Portal – Real Estate Customer Engagement & Lead Conversion System**
 
 🏭 Industry:
 
