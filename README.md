@@ -2,15 +2,15 @@
 🧱 Project Title:
 **Smart Property Portal – Real Estate Customer Engagement & Lead Conversion System**
 
-🏭 Industry:
+🏭 **Industry:**
 
 Real Estate
 
-📚 Industry Analysis:
+📚 **Industry Analysis:**
 
 The real estate industry is highly competitive and customer-driven, with a heavy reliance on timely and accurate communication with prospective buyers. Challenges include managing a large volume of property inquiries, inefficient manual tracking of property visits, and difficulties in prioritizing leads based on their purchase intent. Digital transformation is key to enhancing customer experience, improving agent productivity, and driving faster deal closures.
 
-📝 Requirement Gathering:
+📝** Requirement Gathering:**
 
 Automate lead capture from web forms and social media.
 
@@ -28,7 +28,7 @@ Manage deal closures: track offers, negotiations, closure status, and document u
 
 Provide dashboards to track monthly sales performance, lead funnel, and agent activity.
 
-👥 Stakeholder Analysis:
+👥** Stakeholder Analysis:**
 
 Sales Agents: Need to manage leads, property visits, and track follow-ups efficiently.
 
@@ -40,13 +40,13 @@ Sales Managers: Require real-time dashboards to monitor team performance and sal
 
 IT/Admin Team: Responsible for setting up and maintaining the Salesforce environment.
 
-🔧 Business Process Mapping:
+🔧 **Business Process Mapping:**
 
 Lead Entry → Automated Capture → Lead Assignment → Lead Qualification → Follow-up Scheduling → Visit Confirmation → Deal Negotiation → Deal Closure → Reporting & Analysis.
 
 Property Inventory → Property Update (by managers) → Property Search (by agents) → Visit Scheduling → Customer Visit → Offer & Negotiation → Booking & Documentation → Deal Closure.
 
-📊 Industry-Specific Use Case Analysis:
+📊 **Industry-Specific Use Case Analysis:**
 
 Lead Management Use Case: Automating the capture of leads from web forms and social media eliminates manual entry errors and speeds up initial response time.
 
@@ -58,6 +58,6 @@ Deal Closure Use Case: Capturing deal details systematically helps maintain accu
 
 Reporting Use Case: Dashboards provide management with actionable insights into sales performance, funnel conversion rates, and agent activity.
 
-🔎 AppExchange Exploration:
+🔎 **AppExchange Exploration:**
 
 Explore Salesforce AppExchange for complementary apps that can support SMS notifications, enhanced reporting, document management, or lead scoring enhancements.
