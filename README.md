@@ -1,5 +1,6 @@
-✅ Phase 1: Problem Understanding & Industry Analysis
-🧱 Project Title:
+✅ **Phase 1:** Problem Understanding & Industry Analysis
+
+🧱 **Project Title:**
 **Smart Property Portal – Real Estate Customer Engagement & Lead Conversion System**
 
 🏭 **Industry:**
@@ -30,15 +31,15 @@ Provide dashboards to track monthly sales performance, lead funnel, and agent ac
 
 👥** Stakeholder Analysis:**
 
-Sales Agents: Need to manage leads, property visits, and track follow-ups efficiently.
+**Sales Agents:** Need to manage leads, property visits, and track follow-ups efficiently.
 
-Property Managers: Maintain property inventory and update availability in real time.
+**Property Managers: **Maintain property inventory and update availability in real time.
 
-Prospective Buyers: Want seamless inquiry submission and scheduling of property visits.
+**Prospective Buyers:** Want seamless inquiry submission and scheduling of property visits.
 
-Sales Managers: Require real-time dashboards to monitor team performance and sales pipeline.
+**Sales Managers:** Require real-time dashboards to monitor team performance and sales pipeline.
 
-IT/Admin Team: Responsible for setting up and maintaining the Salesforce environment.
+**IT/Admin Team:** Responsible for setting up and maintaining the Salesforce environment.
 
 🔧 **Business Process Mapping:**
 
